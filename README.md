@@ -11,7 +11,7 @@ year={2021}}
 ```
 
 ## Helpful Link
-* [github project for SRDS 2020 paper "End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things"](https://www.youtube.com/watch?v=x5mD1_EA2ps)
+* [github project for SRDS 2020 paper "End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things"](https://github.com/Minki-Kim95/Federated-Learning-and-Split-Learning-with-raspberry-pi)
 
 ## Description
 This repository contains the implementations of splitfed learning and performance evaluations under IID, imbalanced and non-IID data distribution settings. It also has the code used for Raspberry Pi implementation.
