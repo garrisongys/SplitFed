@@ -7,6 +7,7 @@ If you find it is useful and used for publication. Please kindly cite our work a
 @inproceedings{gao2021desgin,
 title={Evaluation and Optimization of Distributed Machine Learning Techniques for Internet of Things},
 author={Gao, Yansong and Kim, Minki and Thapa, Chandra and Abuadbba, Sharif and Zhang, Zhi and Camtepe, Seyit A and Kim, Hyoungshick and Nepal, Surya},
+journal={IEEE Transactions on Computers},
 year={2021}}
 ```
 
